@@ -44,7 +44,7 @@ The website is divided into the following key sections:
 
 - **Frontend:** HTML5, CSS3, JavaScript , React, TailwindCSS, GSAP.
 - **Version Control:** Git, GitHub
-- **Deployment:** Render
+- **Deployment:** Vercel
 
 ---
 
